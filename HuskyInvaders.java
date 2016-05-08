@@ -1,6 +1,6 @@
 //Husky Invaders
 //Author: Kevin Rawls
-//This is just space invaders with a go dawgs twist
+//This game is space invaders with a GO DAWGS twist. Full game available at bearwithwings.com
 
 import javax.swing.JFrame;
 import java.awt.*;
